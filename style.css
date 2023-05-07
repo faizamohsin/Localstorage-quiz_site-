@@ -1,0 +1,36 @@
+.card-mg{
+    display: block;
+    margin: auto;
+}
+.font{
+    text-align: center; font-size: larger; color: rgb(15, 72, 91);
+}
+
+/* quiz */
+
+
+
+.head-align{
+    text-align: center;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(36, 161, 36);
+    height: 5rem;
+    width: 84rem;
+    color: white;
+}
+.card-align{
+   display: block;
+   margin: auto;
+}
+
+
+.color{
+  background-color:rgb(228, 220, 210);
+}
+
+.bttn{
+ margin-left: 65%;
+}
